@@ -32,7 +32,7 @@ Git 是一个“分布式版本管理工具”，这里需要理解分布式。�
 
 <a name="1-2"></a>
 ### 1.2 实践
-参考我写的 **GitHub 入门教程**，还有我推荐的 **Git 极简入门教程**
+参考 **GitHub 入门教程**，还有我推荐的 **Git 极简入门教程**
 1. [GitHub 入门教程](http://www.cnblogs.com/xueweihan/p/7217846.html)：先创建账号，到第四步在参考下面的教程。
 2. [Git 极简入门教程](http://rogerdudler.github.io/git-guide/index.zh.html)：在上述教程中创建的项目中，练习本教程中的命令，并理解其作用。
 
